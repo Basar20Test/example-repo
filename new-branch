@@ -1,0 +1,5 @@
+{
+  "message": "Test commit via API",
+  "tree": "{new_tree_sha}",
+  "parents": ["{latest_commit_sha}"]
+}
